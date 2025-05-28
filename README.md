@@ -1,5 +1,3 @@
-# web-scraping---youtube-website-using-selenium
-
 # YouTube Trending Videos Scraper with Selenium
 
 This Python script automates the extraction of the top trending YouTube videos' titles and view counts using Selenium WebDriver.
